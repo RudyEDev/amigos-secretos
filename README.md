@@ -10,7 +10,8 @@ Aplicación web para organizar un sorteo de **Amigo Secreto**.
 
 
 ## 🖼️ Captura de pantalla
-![Vista previa](https://raw.githubusercontent.com/RudyEDev/amigos-secretos/main/screenshot.png)
+![Vista previa](https://github.com/RudyEDev/amigos-secretos/blob/7276f64ee3f1d504b6612de8564c50cff01ce359/imagen.jpg/Captura.PNG)
+![Vista previa](https://github.com/RudyEDev/amigos-secretos/blob/7276f64ee3f1d504b6612de8564c50cff01ce359/imagen.jpg/captura1.PNG)
 
 
 ## 🛠️ Tecnologías utilizadas
